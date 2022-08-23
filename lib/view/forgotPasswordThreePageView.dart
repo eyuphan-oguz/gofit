@@ -66,7 +66,7 @@ class _ForgotPasswordThreePageViewState extends State<ForgotPasswordThreePageVie
           children: [
             IconButton(
                 onPressed: () {
-                  print("tıklandı");
+                  print("tıklandı.");
                 },
                 icon: Icon(
                   Icons.arrow_back,
